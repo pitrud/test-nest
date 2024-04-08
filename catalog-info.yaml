@@ -5,6 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: pitrud/test-nest
 spec:
-  type: other
-  lifecycle: unknown
+  type: openapi
   owner: guests
+  lifecycle: experimental
+  definition:
+    $text: https://test-nest-plum.vercel.app/api-json
