@@ -4,6 +4,7 @@ metadata:
   name: test-nest
   annotations:
     github.com/project-slug: pitrud/test-nest
+    backstage.io/techdocs-ref: value
 spec:
   type: openapi
   lifecycle: production
