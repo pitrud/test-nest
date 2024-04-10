@@ -10,6 +10,7 @@ async function bootstrap() {
     .setTitle('Nest API')
     .setDescription('desc of nest api...')
     .setVersion('1.0')
+    .addServer('https://test-nest-plum.vercel.app')
     .build();
   const document = SwaggerModule.createDocument(app, config);
 
