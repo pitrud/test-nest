@@ -6,10 +6,10 @@ metadata:
     github.com/project-slug: pitrud/test-nest
     backstage.io/techdocs-ref: value
   links:
-    - url: https://admin.example-org.com
-      title: Admin Dashboard
+    - url: https://test-nest-plum.vercel.app/
+      title: Nestjs demo page
       icon: dashboard
-      type: admin-dashboard
+      type: nest api
 spec:
   type: openapi
   lifecycle: production
