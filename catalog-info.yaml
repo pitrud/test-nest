@@ -5,6 +5,11 @@ metadata:
   annotations:
     github.com/project-slug: pitrud/test-nest
     backstage.io/techdocs-ref: value
+  links:
+    - url: https://admin.example-org.com
+      title: Admin Dashboard
+      icon: dashboard
+      type: admin-dashboard
 spec:
   type: openapi
   lifecycle: production
