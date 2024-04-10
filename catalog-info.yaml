@@ -10,6 +10,8 @@ metadata:
       title: Nestjs demo page
       icon: dashboard
       type: nest api
+    - url: https://test-nest-plum.vercel.app/api-json
+      title: openapi json
 spec:
   type: openapi
   lifecycle: production
